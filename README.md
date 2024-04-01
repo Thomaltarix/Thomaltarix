@@ -7,7 +7,7 @@ I'm Thomas Boué, a second-year student at Epitech Nantes with a lifelong passio
 
 - 🎓 **Epitech Journey:** Currently in my second year at Epitech Nantes, I'm diving deep into object oriented programming thank's to C++ and some stuff.
 
-- 💼 **JF-Test Project:** Actively working on the JF-Test project. It's a functionnal tests python script project which will be used for my next Epitech projects.
+- 💼 **Json-FTest Project:** Actively working on the JF-Test project. It's a functionnal tests python script project which will be used for my next Epitech projects.
 
 ## 🔧 Technologies and Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
