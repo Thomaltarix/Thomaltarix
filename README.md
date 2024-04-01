@@ -32,7 +32,7 @@ I'm Thomas Boué, a second-year student at Epitech Nantes with a lifelong passio
 
 ## 🚀 Notable Projects
 - [JamYingYong](https://github.com/Thomaltarix/JamYingYong) - An Epitech jam game done in 48H
-- [JF-Test](https://github.com/Thomaltarix/JF-Test) - A python script to functionnaly tests programs using arguments or CLI
+- [Json-FTest](https://github.com/Thomaltarix/Json-FTest) - A python script to functionnaly tests programs using arguments or CLI
 
 ## 📫 How to Reach Me
 - LinkedIn: [Thomas Boué](https://www.linkedin.com/in/thomas-bou%C3%A9-425018254/)
