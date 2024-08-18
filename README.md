@@ -31,8 +31,8 @@ I'm Thomas Boué, a third-year student at Epitech Nantes with a lifelong passion
 
 
 ## 🚀 Notable Projects
-- [JamYingYong](https://github.com/Thomaltarix/JamYingYong) - An Epitech jam game done in 48H
-- [Json-FTest](https://github.com/Thomaltarix/Json-FTest) - A python script to functionnaly tests programs using arguments or CLI
+- [Zappy](https://github.com/Thomaltarix/Zappy) - My Epitech 2nd year end project
+- [Arcade](https://github.com/Thomaltarix/Arrrrrcade) - Arcade games project with differents graphic libraries
 
 ## 📫 How to Reach Me
 - LinkedIn: [Thomas Boué](https://www.linkedin.com/in/thomas-bou%C3%A9-425018254/)
