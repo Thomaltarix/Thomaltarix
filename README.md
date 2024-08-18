@@ -1,7 +1,7 @@
 # Hi, I'm Thomas ! 👋
 
 ## 💻 About Me
-I'm Thomas Boué, a second-year student at Epitech Nantes with a lifelong passion for computers. In addition to my studies, I serve as a teaching assistant at my school.
+I'm Thomas Boué, a third-year student at Epitech Nantes with a lifelong passion for computers. In addition to my studies, I serve as a teaching assistant at my school.
 
 ## 🚀 Current Endeavors
 
