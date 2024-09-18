@@ -19,10 +19,12 @@ I'm Thomas Boué, a third-year student at Epitech Nantes with a lifelong passion
 ![github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-3C6EB4?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 📊 Some stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomaltarix&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
