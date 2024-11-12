@@ -10,11 +10,8 @@ I'm Thomas Boué, a third-year student at Epitech Nantes with a lifelong passion
 - 💼 **Json-FTest Project:** Actively working on the Json-FTest project. It's a functionnal tests python script project which will be used for my next Epitech projects.
 
 ## 🔧 Technologies and Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,haskell,js,html,css,vue,ts,flutter)](https://github.com/Thomaltarix)
+
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -23,8 +20,6 @@ I'm Thomas Boué, a third-year student at Epitech Nantes with a lifelong passion
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 📊 Some stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomaltarix&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
@@ -33,6 +28,7 @@ I'm Thomas Boué, a third-year student at Epitech Nantes with a lifelong passion
 
 
 ## 🚀 Notable Projects
+- [R-Type](https://github.com/Thomaltarix/R-Type) - Multiplayer shoot'em up using an ECS
 - [Zappy](https://github.com/Thomaltarix/Zappy) - My Epitech 2nd year end project
 - [Arcade](https://github.com/Thomaltarix/Arrrrrcade) - Arcade games project with differents graphic libraries
 
