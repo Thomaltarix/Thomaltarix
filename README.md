@@ -5,9 +5,7 @@ I'm Thomas Boué, a third-year student at Epitech Nantes with a lifelong passion
 
 ## 🚀 Current Endeavors
 
-- 🎓 **Epitech Journey:** Currently in my second year at Epitech Nantes, I'm diving deep into object oriented programming thank's to C++ and some stuff.
-
-- 💼 **Json-FTest Project:** Actively working on the Json-FTest project. It's a functionnal tests python script project which will be used for my next Epitech projects.
+- 🎓 **Epitech Journey:** Currently in my thrid year at Epitech Nantes, I'm diving deep into object oriented programming thank's to C++ and some stuff
 
 ## 🔧 Technologies and Skills
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,haskell,js,html,css,vue,ts,flutter)](https://github.com/Thomaltarix)
