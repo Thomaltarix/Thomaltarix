@@ -7,7 +7,7 @@ Fifth-year software engineering student at Epitech, after an exchange year at Ch
 🌐 **Portfolio:** [thomasboue.com](https://thomasboue.com)
 
 **Looking for:**
-- Part-time internship (Mon/Wed): available now, until February 2027
+- Part-time internship (3 days a week, Monday to Wednesday): available now, until February 2027
 - Full-time internship: March to August 2027
 
 ## 🛠 Tech Stack
@@ -34,9 +34,9 @@ Fifth-year software engineering student at Epitech, after an exchange year at Ch
 After starting on bug fixes, I spent most of the mission turning Python proofs of concept for external API integrations into production code: scheduled jobs that fetch and synchronise data from those APIs, and the frontend views that display it.
 
 ### Software Engineering Intern (Full Stack) · Bouygues Telecom
-*2025 · 6 months*
+*Apr - Aug 2025*
 
-Worked on an internal GitLab analytics tool that helps the IT department govern its code. Full stack in Java and React, with most of my work on the Java backend.
+Worked on an internal GitLab analytics tool that helps the IT department govern its code. Full stack in Java (Spring Boot) and React, with most of my work on the Java backend.
 
 ### Teaching Assistant · Epitech Nantes
 *2024 - 2025*
