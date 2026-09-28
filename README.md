@@ -2,109 +2,91 @@
 
 ## Backend & Software Engineer
 
-I'm a Backend & Software Engineer based in France, currently studying at EPITECH while working on professional software projects.
+Fifth-year software engineering student at Epitech, after an exchange year at Chung-Ang University in South Korea (2025-2026). I mostly work on the backend: APIs, databases and the infrastructure that keeps them running.
 
-I specialize in designing scalable backend systems, REST APIs, and custom software solutions using modern technologies. I enjoy solving complex technical challenges, building maintainable architectures, and delivering reliable software.
+🌐 **Portfolio:** [thomasboue.com](https://thomasboue.com)
 
-## 🚀 What I do
-
-- 🔹 Backend Development (Go, TypeScript, NestJS)
-- 🔹 Software Development (C++, Python, Java)
-- 🔹 REST API Design
-- 🔹 PostgreSQL & Database Design
-- 🔹 Docker & CI/CD
-- 🔹 Software Architecture
-- 🔹 Automation & Internal Tools
+**Looking for:**
+- Part-time internship (Mon/Wed): available now, until February 2027
+- Full-time internship: March to August 2027
 
 ## 🛠 Tech Stack
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,cpp,python,java,c)](https://github.com/Thomaltarix)
+[![Languages](https://skillicons.dev/icons?i=go,cpp,python,java,ts,c)](https://github.com/Thomaltarix)
 
-### Backend & Frameworks
+### Backend & Databases
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,spring,postgres,docker,prisma)](https://github.com/Thomaltarix)
+[![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,spring,postgres,prisma)](https://github.com/Thomaltarix)
 
 ### DevOps & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,jenkins)](https://github.com/Thomaltarix)
+[![DevOps](https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,jenkins)](https://github.com/Thomaltarix)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### Backend Developer — La Trace
+### Freelance Full Stack Developer · La Trace
+*Nov 2025 - Mar 2026 · remote from Seoul*
 
-- Development of production backend services
-- REST APIs
-- PostgreSQL & Prisma
-- Docker
-- CI/CD
-- Agile development
+After starting on bug fixes, I spent most of the mission turning Python proofs of concept for external API integrations into production code: scheduled jobs that fetch and synchronise data from those APIs, and the frontend views that display it.
 
-### Software Developer Intern — Bouygues Telecom
+### Software Engineering Intern (Full Stack) · Bouygues Telecom
+*2025 · 6 months*
 
-- Internal software development
-- Bug fixing & feature development
-- Team collaboration
-- Software engineering best practices
+Worked on an internal GitLab analytics tool that helps the IT department govern its code. Full stack in Java and React, with most of my work on the Java backend.
+
+### Teaching Assistant · Epitech Nantes
+*2024 - 2025*
+
+Mentored first- and second-year students in C, C++, Python, algorithms and software engineering.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎵 MELO
+### 🎵 Melo
+*End-of-studies project, in progress since March 2025*
 
-A platform that helps users discover events matching their interests through a modern web application and a scalable backend architecture.
+A music event recommendation app built with a team. I'm the backend tech lead and its main developer, with about half of the backend commits so far.
 
-**Highlights**
-- Event discovery platform
-- REST API development
-- User authentication
-- Database design
-- Scalable backend architecture
+- Go microservices behind an API gateway, on PostgreSQL, each service with its own Dockerfile
+- Authentication with refresh tokens, Swagger / OpenAPI documentation
+- Separate preprod and prod environments with GitHub Actions
 
-**Tech:** Golang • TypeScript • PostgreSQL • Prisma • Docker • Microservices
+**Tech:** Go • PostgreSQL • Docker • Microservices • Swagger
 
 ---
 
-### 📅 UnifiedCalendar
+### 👾 [R-Type](https://github.com/FppEpitech/R-Type)
+*Epitech, 2024 · team of five*
 
-A work-in-progress platform designed to synchronize calendars across multiple providers such as Google Calendar, Outlook, and Notion through a unified backend.
+A multiplayer remake of the arcade shooter on our own C++ game engine, with an entity-component-system architecture. I was the top contributor (386 of about 1,300 commits) and built much of the gameplay as engine systems: gravity, collisions, jumping, hitboxes, plus a second 3D game on the same engine.
 
-**Highlights**
-- OAuth2 authentication
-- Multi-provider synchronization
-- API integrations
-- Modular backend architecture
-
-**Tech:** TypeScript • NestJS • PostgreSQL • Prisma
+**Tech:** C++ • CMake • Raylib • ECS • CI on Linux and Windows
 
 ---
 
-### 👾 R-Type
+### 🌐 [Portfolio](https://github.com/Thomaltarix/Portfolio)
 
-A multiplayer shoot'em up built from scratch using an Entity Component System (ECS), featuring real-time networking and a custom game engine.
+The site at [thomasboue.com](https://thomasboue.com): a NestJS and PostgreSQL API, a React frontend, an admin dashboard and first-party analytics, deployed on my own server with Docker and GitHub Actions. Built with Claude Code.
 
-**Highlights**
-- ECS architecture
-- Multiplayer networking
-- Cross-platform development
-- Game engine programming
+**Tech:** NestJS • Prisma • PostgreSQL • React • Docker • GitHub Actions
 
-**Tech:** C++ • ECS • Networking
+---
+
+### 📅 [UnifiedCalendar](https://github.com/Thomaltarix/UnifiedCalendar)
+*Work in progress*
+
+A SaaS that synchronises Google Calendar and Microsoft Outlook into a single calendar view. The architecture and authentication (Google and Microsoft OAuth, JWT with refresh tokens) are in place.
+
+**Tech:** NestJS • Next.js • Prisma • PostgreSQL • TypeScript
 
 ---
 
 ## 📫 Contact
 
-📧 **Email**
-bouethomaspro@gmail.com
-
-💼 **LinkedIn**
-https://linkedin.com/in/thomas-boue/
-
----
-
-⭐ Feel free to explore my repositories or contact me for freelance opportunities and collaborations.
+- 📧 bouethomaspro@gmail.com
+- 💼 [linkedin.com/in/thomasboue](https://www.linkedin.com/in/thomasboue)
